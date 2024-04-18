@@ -1,4 +1,4 @@
-# What cookies a Chrome extension cannot use in network requests
-Can an extension establish a session with a back end server?
+# Fantastic enhancements in the Servlet API 6.0
+Novel features of the omnipresent Servlet API. Why developers hurry to migrate to Servlet API 6.0.
 
-Sample code for my post https://marian-caikovski.medium.com/what-cookies-a-chrome-extension-cannot-use-in-network-requests-83fb2df24602
+Sample code for my post https://marian-caikovski.medium.com/fantastic-enhancements-in-the-servlet-api-6-0-02cefbfb0004
